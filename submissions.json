@@ -2848,6 +2848,23 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF556396": {
+    "contest_id": 99,
+    "language": "MS C++",
+    "path": "codeforces/99/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Help Chef Gerasim",
+    "problem_url": "https://codeforces.com/contest/99/problem/B",
+    "submission_id": "CF556396",
+    "submission_url": "https://codeforces.com/contest/99/submission/556396",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jul/22/2011 17:20"
+  },
   "CF58862136": {
     "contest_id": 1203,
     "language": "GNU C++17",
