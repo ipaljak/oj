@@ -6916,6 +6916,24 @@
     ],
     "timestamp": "Jun/07/2020 20:21"
   },
+  "CF861541": {
+    "contest_id": 124,
+    "language": "GNU C++",
+    "path": "codeforces/124/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutations",
+    "problem_url": "https://codeforces.com/contest/124/problem/B",
+    "submission_id": "CF861541",
+    "submission_url": "https://codeforces.com/contest/124/submission/861541",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/03/2011 16:37"
+  },
   "CF861571": {
     "contest_id": 124,
     "language": "GNU C++",
