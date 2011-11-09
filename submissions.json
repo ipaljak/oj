@@ -6916,6 +6916,22 @@
     ],
     "timestamp": "Jun/07/2020 20:21"
   },
+  "CF844620": {
+    "contest_id": 127,
+    "language": "GNU C++",
+    "path": "codeforces/127/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Canvas Frames",
+    "problem_url": "https://codeforces.com/contest/127/problem/B",
+    "submission_id": "CF844620",
+    "submission_url": "https://codeforces.com/contest/127/submission/844620",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Nov/09/2011 18:13"
+  },
   "CF848126": {
     "contest_id": 127,
     "language": "GNU C++",
