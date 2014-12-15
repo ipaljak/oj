@@ -7024,6 +7024,24 @@
     ],
     "timestamp": "Aug/30/2020 18:13"
   },
+  "CF9143471": {
+    "contest_id": 26,
+    "language": "GNU C++",
+    "path": "codeforces/26/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tickets",
+    "problem_url": "https://codeforces.com/contest/26/problem/D",
+    "submission_id": "CF9143471",
+    "submission_url": "https://codeforces.com/contest/26/submission/9143471",
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities",
+      "*2400"
+    ],
+    "timestamp": "Dec/15/2014 16:15"
+  },
   "CF91801000": {
     "contest_id": 1409,
     "language": "GNU C++17",
