@@ -7276,6 +7276,22 @@
     ],
     "timestamp": "Sep/06/2020 22:53"
   },
+  "CF9219935": {
+    "contest_id": 497,
+    "language": "GNU C++",
+    "path": "codeforces/497/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Removing Columns",
+    "problem_url": "https://codeforces.com/contest/497/problem/A",
+    "submission_id": "CF9219935",
+    "submission_url": "https://codeforces.com/contest/497/submission/9219935",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Dec/22/2014 01:17"
+  },
   "CF9219936": {
     "contest_id": 497,
     "language": "GNU C++",
