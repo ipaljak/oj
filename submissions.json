@@ -7427,6 +7427,23 @@
     ],
     "timestamp": "Sep/12/2020 16:31"
   },
+  "CF9261550": {
+    "contest_id": 499,
+    "language": "GNU C++",
+    "path": "codeforces/499/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Crazy Town",
+    "problem_url": "https://codeforces.com/contest/499/problem/C",
+    "submission_id": "CF9261550",
+    "submission_url": "https://codeforces.com/contest/499/submission/9261550",
+    "tags": [
+      "geometry",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Dec/24/2014 22:21"
+  },
   "CF92800861": {
     "contest_id": 1418,
     "language": "GNU C++17",
