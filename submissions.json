@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF11514712": {
+    "contest_id": 549,
+    "language": "GNU C++",
+    "path": "codeforces/549/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Face Detection",
+    "problem_url": "https://codeforces.com/contest/549/problem/A",
+    "submission_id": "CF11514712",
+    "submission_url": "https://codeforces.com/contest/549/submission/11514712",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jun/09/2015 21:42"
+  },
   "CF11515105": {
     "contest_id": 549,
     "language": "GNU C++",
