@@ -52,6 +52,24 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF11971573": {
+    "contest_id": 557,
+    "language": "GNU C++",
+    "path": "codeforces/557/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ilya and Diplomas",
+    "problem_url": "https://codeforces.com/contest/557/problem/A",
+    "submission_id": "CF11971573",
+    "submission_url": "https://codeforces.com/contest/557/submission/11971573",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jul/08/2015 13:55"
+  },
   "CF11971688": {
     "contest_id": 557,
     "language": "GNU C++",
