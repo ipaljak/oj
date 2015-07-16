@@ -52,6 +52,24 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF12089010": {
+    "contest_id": 558,
+    "language": "GNU C++",
+    "path": "codeforces/558/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lala Land and Apple Trees",
+    "problem_url": "https://codeforces.com/contest/558/problem/A",
+    "submission_id": "CF12089010",
+    "submission_url": "https://codeforces.com/contest/558/submission/12089010",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jul/17/2015 00:30"
+  },
   "CF12089077": {
     "contest_id": 558,
     "language": "GNU C++",
