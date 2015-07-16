@@ -52,6 +52,22 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF12089077": {
+    "contest_id": 558,
+    "language": "GNU C++",
+    "path": "codeforces/558/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Amr and The Large Array",
+    "problem_url": "https://codeforces.com/contest/558/problem/B",
+    "submission_id": "CF12089077",
+    "submission_url": "https://codeforces.com/contest/558/submission/12089077",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jul/17/2015 00:41"
+  },
   "CF12154087": {
     "contest_id": 546,
     "language": "GNU C++",
