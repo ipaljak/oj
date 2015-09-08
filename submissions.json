@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF12896520": {
+    "contest_id": 574,
+    "language": "GNU C++",
+    "path": "codeforces/574/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bear and Elections",
+    "problem_url": "https://codeforces.com/contest/574/problem/A",
+    "submission_id": "CF12896520",
+    "submission_url": "https://codeforces.com/contest/574/submission/12896520",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/08/2015 13:43"
+  },
   "CF12896665": {
     "contest_id": 574,
     "language": "GNU C++",
