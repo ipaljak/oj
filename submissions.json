@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF13033005": {
+    "contest_id": 578,
+    "language": "GNU C++",
+    "path": "codeforces/578/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Problem about Polyline",
+    "problem_url": "https://codeforces.com/contest/578/problem/A",
+    "submission_id": "CF13033005",
+    "submission_url": "https://codeforces.com/contest/578/submission/13033005",
+    "tags": [
+      "geometry",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/16/2015 17:44"
+  },
   "CF13043091": {
     "contest_id": 578,
     "language": "GNU C++",
