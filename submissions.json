@@ -52,6 +52,24 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF13076854": {
+    "contest_id": 579,
+    "language": "GNU C++",
+    "path": "codeforces/579/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Finding Team Member",
+    "problem_url": "https://codeforces.com/contest/579/problem/B",
+    "submission_id": "CF13076854",
+    "submission_url": "https://codeforces.com/contest/579/submission/13076854",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Sep/18/2015 00:26"
+  },
   "CF13076861": {
     "contest_id": 579,
     "language": "GNU C++",
