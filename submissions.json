@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF13070540": {
+    "contest_id": 578,
+    "language": "GNU C++",
+    "path": "codeforces/578/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "LCS Again",
+    "problem_url": "https://codeforces.com/contest/578/problem/D",
+    "submission_id": "CF13070540",
+    "submission_url": "https://codeforces.com/contest/578/submission/13070540",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2700"
+    ],
+    "timestamp": "Sep/17/2015 17:38"
+  },
   "CF13076780": {
     "contest_id": 578,
     "language": "GNU C++",
