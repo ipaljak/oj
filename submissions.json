@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF13076780": {
+    "contest_id": 578,
+    "language": "GNU C++",
+    "path": "codeforces/578/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Walking!",
+    "problem_url": "https://codeforces.com/contest/578/problem/E",
+    "submission_id": "CF13076780",
+    "submission_url": "https://codeforces.com/contest/578/submission/13076780",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2700"
+    ],
+    "timestamp": "Sep/18/2015 00:13"
+  },
   "CF13076818": {
     "contest_id": 579,
     "language": "GNU C++",
