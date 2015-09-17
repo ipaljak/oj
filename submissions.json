@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF13076861": {
+    "contest_id": 579,
+    "language": "GNU C++",
+    "path": "codeforces/579/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "A Problem about Polyline",
+    "problem_url": "https://codeforces.com/contest/579/problem/C",
+    "submission_id": "CF13076861",
+    "submission_url": "https://codeforces.com/contest/579/submission/13076861",
+    "tags": [
+      "binary search",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/18/2015 00:28"
+  },
   "CF13076875": {
     "contest_id": 579,
     "language": "GNU C++",
