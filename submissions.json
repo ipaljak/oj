@@ -52,6 +52,21 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF13076880": {
+    "contest_id": 579,
+    "language": "GNU C++",
+    "path": "codeforces/579/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "LCS Again",
+    "problem_url": "https://codeforces.com/contest/579/problem/F",
+    "submission_id": "CF13076880",
+    "submission_url": "https://codeforces.com/contest/579/submission/13076880",
+    "tags": [
+      "*2700"
+    ],
+    "timestamp": "Sep/18/2015 00:32"
+  },
   "CF13093828": {
     "contest_id": 577,
     "language": "GNU C++",
