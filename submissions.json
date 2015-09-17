@@ -52,6 +52,24 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF13076875": {
+    "contest_id": 579,
+    "language": "GNU C++",
+    "path": "codeforces/579/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "\"Or\" Game",
+    "problem_url": "https://codeforces.com/contest/579/problem/D",
+    "submission_id": "CF13076875",
+    "submission_url": "https://codeforces.com/contest/579/submission/13076875",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/18/2015 00:30"
+  },
   "CF13076877": {
     "contest_id": 579,
     "language": "GNU C++",
