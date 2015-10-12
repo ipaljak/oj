@@ -52,6 +52,22 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF13560082": {
+    "contest_id": 586,
+    "language": "GNU C++",
+    "path": "codeforces/586/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Laurenty and Shop",
+    "problem_url": "https://codeforces.com/contest/586/problem/B",
+    "submission_id": "CF13560082",
+    "submission_url": "https://codeforces.com/contest/586/submission/13560082",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/12/2015 11:34"
+  },
   "CF13561949": {
     "contest_id": 586,
     "language": "GNU C++",
