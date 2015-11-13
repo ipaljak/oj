@@ -52,6 +52,22 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF14227320": {
+    "contest_id": 572,
+    "language": "GNU C++",
+    "path": "codeforces/572/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arrays",
+    "problem_url": "https://codeforces.com/contest/572/problem/A",
+    "submission_id": "CF14227320",
+    "submission_url": "https://codeforces.com/contest/572/submission/14227320",
+    "tags": [
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Nov/13/2015 14:37"
+  },
   "CF14227374": {
     "contest_id": 378,
     "language": "GNU C++",
