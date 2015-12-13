@@ -52,6 +52,24 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF14787415": {
+    "contest_id": 605,
+    "language": "GNU C++11",
+    "path": "codeforces/605/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lazy Student",
+    "problem_url": "https://codeforces.com/contest/605/problem/B",
+    "submission_id": "CF14787415",
+    "submission_url": "https://codeforces.com/contest/605/submission/14787415",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Dec/13/2015 17:08"
+  },
   "CF14889678": {
     "contest_id": 600,
     "language": "GNU C++11",
