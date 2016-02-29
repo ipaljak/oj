@@ -52,6 +52,24 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF16427755": {
+    "contest_id": 315,
+    "language": "GNU C++11",
+    "path": "codeforces/315/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sereja and Contest",
+    "problem_url": "https://codeforces.com/contest/315/problem/C",
+    "submission_id": "CF16427755",
+    "submission_url": "https://codeforces.com/contest/315/submission/16427755",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Feb/29/2016 15:41"
+  },
   "CF16428761": {
     "contest_id": 315,
     "language": "GNU C++11",
