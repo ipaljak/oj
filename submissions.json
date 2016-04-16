@@ -52,6 +52,22 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF17351728": {
+    "contest_id": 664,
+    "language": "GNU C++11",
+    "path": "codeforces/664/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rebus",
+    "problem_url": "https://codeforces.com/contest/664/problem/B",
+    "submission_id": "CF17351728",
+    "submission_url": "https://codeforces.com/contest/664/submission/17351728",
+    "tags": [
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Apr/16/2016 20:24"
+  },
   "CF17909044": {
     "contest_id": 672,
     "language": "Haskell",
