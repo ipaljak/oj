@@ -52,6 +52,22 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF17909044": {
+    "contest_id": 672,
+    "language": "Haskell",
+    "path": "codeforces/672/A.hs",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Summer Camp",
+    "problem_url": "https://codeforces.com/contest/672/problem/A",
+    "submission_id": "CF17909044",
+    "submission_url": "https://codeforces.com/contest/672/submission/17909044",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/14/2016 17:19"
+  },
   "CF18786955": {
     "contest_id": 688,
     "language": "GNU C++11",
