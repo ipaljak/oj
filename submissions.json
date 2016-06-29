@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF18788793": {
+    "contest_id": 688,
+    "language": "Python 2",
+    "path": "codeforces/688/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lovely Palindromes",
+    "problem_url": "https://codeforces.com/contest/688/problem/B",
+    "submission_id": "CF18788793",
+    "submission_url": "https://codeforces.com/contest/688/submission/18788793",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/29/2016 19:14"
+  },
   "CF18793159": {
     "contest_id": 688,
     "language": "GNU C++11",
