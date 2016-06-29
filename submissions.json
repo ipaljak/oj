@@ -52,6 +52,22 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF18786955": {
+    "contest_id": 688,
+    "language": "GNU C++11",
+    "path": "codeforces/688/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Opponents",
+    "problem_url": "https://codeforces.com/contest/688/problem/A",
+    "submission_id": "CF18786955",
+    "submission_url": "https://codeforces.com/contest/688/submission/18786955",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/29/2016 19:09"
+  },
   "CF18788793": {
     "contest_id": 688,
     "language": "Python 2",
