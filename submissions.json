@@ -52,6 +52,21 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF19001497": {
+    "contest_id": 690,
+    "language": "GNU C++11",
+    "path": "codeforces/690/B1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Recover Polygon (easy)",
+    "problem_url": "https://codeforces.com/contest/690/problem/B1",
+    "submission_id": "CF19001497",
+    "submission_url": "https://codeforces.com/contest/690/submission/19001497",
+    "tags": [
+      "*1700"
+    ],
+    "timestamp": "Jul/10/2016 10:56"
+  },
   "CF19005732": {
     "contest_id": 690,
     "language": "GNU C++11",
