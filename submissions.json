@@ -52,6 +52,22 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF19005732": {
+    "contest_id": 690,
+    "language": "GNU C++11",
+    "path": "codeforces/690/C3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C3",
+    "problem_name": "Brain Network (hard)",
+    "problem_url": "https://codeforces.com/contest/690/problem/C3",
+    "submission_id": "CF19005732",
+    "submission_url": "https://codeforces.com/contest/690/submission/19005732",
+    "tags": [
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Jul/10/2016 12:43"
+  },
   "CF19006600": {
     "contest_id": 690,
     "language": "GNU C++11",
