@@ -52,6 +52,21 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF19007593": {
+    "contest_id": 690,
+    "language": "GNU C++11",
+    "path": "codeforces/690/A3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A3",
+    "problem_name": "Collective Mindsets (hard)",
+    "problem_url": "https://codeforces.com/contest/690/problem/A3",
+    "submission_id": "CF19007593",
+    "submission_url": "https://codeforces.com/contest/690/submission/19007593",
+    "tags": [
+      "*2400"
+    ],
+    "timestamp": "Jul/10/2016 13:39"
+  },
   "CF19009239": {
     "contest_id": 690,
     "language": "GNU C++11",
