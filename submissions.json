@@ -52,6 +52,21 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF19001483": {
+    "contest_id": 690,
+    "language": "GNU C++",
+    "path": "codeforces/690/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Photographs (I)",
+    "problem_url": "https://codeforces.com/contest/690/problem/E1",
+    "submission_id": "CF19001483",
+    "submission_url": "https://codeforces.com/contest/690/submission/19001483",
+    "tags": [
+      "*1800"
+    ],
+    "timestamp": "Jul/10/2016 10:56"
+  },
   "CF19001497": {
     "contest_id": 690,
     "language": "GNU C++11",
