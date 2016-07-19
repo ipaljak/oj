@@ -52,6 +52,26 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF19252435": {
+    "contest_id": 699,
+    "language": "GNU C++11",
+    "path": "codeforces/699/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fix a Tree",
+    "problem_url": "https://codeforces.com/contest/699/problem/D",
+    "submission_id": "CF19252435",
+    "submission_url": "https://codeforces.com/contest/699/submission/19252435",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Jul/19/2016 16:53"
+  },
   "CF19691871": {
     "contest_id": 705,
     "language": "GNU C++11",
