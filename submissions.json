@@ -52,6 +52,24 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF20619998": {
+    "contest_id": 714,
+    "language": "GNU C++11",
+    "path": "codeforces/714/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sonya and Problem Wihtout a Legend",
+    "problem_url": "https://codeforces.com/contest/714/problem/E",
+    "submission_id": "CF20619998",
+    "submission_url": "https://codeforces.com/contest/714/submission/20619998",
+    "tags": [
+      "dp",
+      "flows",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "Sep/14/2016 17:15"
+  },
   "CF20645686": {
     "contest_id": 713,
     "language": "GNU C++11",
