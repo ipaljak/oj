@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF20616560": {
+    "contest_id": 713,
+    "language": "GNU C++11",
+    "path": "codeforces/713/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sonya and Queries",
+    "problem_url": "https://codeforces.com/contest/713/problem/A",
+    "submission_id": "CF20616560",
+    "submission_url": "https://codeforces.com/contest/713/submission/20616560",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Sep/14/2016 15:49"
+  },
   "CF20619998": {
     "contest_id": 714,
     "language": "GNU C++11",
