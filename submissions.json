@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF23582250": {
+    "contest_id": 752,
+    "language": "GNU C++11",
+    "path": "codeforces/752/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Santa Claus and Robot",
+    "problem_url": "https://codeforces.com/contest/752/problem/C",
+    "submission_id": "CF23582250",
+    "submission_url": "https://codeforces.com/contest/752/submission/23582250",
+    "tags": [
+      "greedy",
+      "shortest paths",
+      "*1400"
+    ],
+    "timestamp": "Jan/06/2017 11:18"
+  },
   "CF23583449": {
     "contest_id": 752,
     "language": "GNU C++11",
