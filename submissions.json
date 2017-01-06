@@ -52,6 +52,25 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF23583715": {
+    "contest_id": 752,
+    "language": "GNU C++11",
+    "path": "codeforces/752/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Santa Claus and Tangerines",
+    "problem_url": "https://codeforces.com/contest/752/problem/E",
+    "submission_id": "CF23583715",
+    "submission_url": "https://codeforces.com/contest/752/submission/23583715",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "Jan/06/2017 12:06"
+  },
   "CF23587750": {
     "contest_id": 754,
     "language": "GNU C++11",
