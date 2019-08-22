@@ -2848,6 +2848,24 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF59305663": {
+    "contest_id": 1207,
+    "language": "GNU C++17",
+    "path": "codeforces/1207/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "XOR Guessing",
+    "problem_url": "https://codeforces.com/contest/1207/problem/E",
+    "submission_id": "CF59305663",
+    "submission_url": "https://codeforces.com/contest/1207/submission/59305663",
+    "tags": [
+      "bitmasks",
+      "interactive",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Aug/22/2019 18:03"
+  },
   "CF59307834": {
     "contest_id": 1207,
     "language": "GNU C++17",
