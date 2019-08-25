@@ -2848,6 +2848,25 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF59469810": {
+    "contest_id": 1208,
+    "language": "GNU C++17",
+    "path": "codeforces/1208/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Restore Permutation",
+    "problem_url": "https://codeforces.com/contest/1208/problem/D",
+    "submission_id": "CF59469810",
+    "submission_url": "https://codeforces.com/contest/1208/submission/59469810",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Aug/25/2019 17:31"
+  },
   "CF59481241": {
     "contest_id": 1208,
     "language": "GNU C++17",
