@@ -2848,6 +2848,25 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF59590888": {
+    "contest_id": 1204,
+    "language": "GNU C++17",
+    "path": "codeforces/1204/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Kirk and a Binary String (hard version)",
+    "problem_url": "https://codeforces.com/contest/1204/problem/D2",
+    "submission_id": "CF59590888",
+    "submission_url": "https://codeforces.com/contest/1204/submission/59590888",
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "Aug/27/2019 22:27"
+  },
   "CF59591815": {
     "contest_id": 1204,
     "language": "GNU C++17",
