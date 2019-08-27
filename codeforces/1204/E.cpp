@@ -13,7 +13,7 @@ const int MOD = 998244853;
 const int MAXN = 2002;
 
 int n, m;
-int dp0[MAXN][MAXN], dp[MAXN][MAXN], choose[2*MAXN][MAXN];
+int dp0[MAXN][MAXN], dp[MAXN][MAXN], fact[2 * MAXN], choose[2*MAXN][MAXN];
 
 int add(int a, int b) {
   if (a + b >= MOD) return a + b - MOD;
@@ -21,7 +21,36 @@ int add(int a, int b) {
   return a + b;
 }
 
+int mul(int a, int b) {
+  return (llint) a * b % MOD;
+}
+
+int fastpow(int b, int e) {
+  int ret = 1;
+  while (e) {
+    if (e % 2 == 1) {
+      ret = mul(ret, b);
+      --e;
+    }
+    b = mul(b, b);
+    e /= 2;
+  }
+  return ret;
+}
+
+int inv(int x) {
+  return fastpow(x, MOD - 2);
+}
+
+//int choose(int n, int k) {
+  //return mul(fact[n], inv(mul(fact[k], fact[n - k])));
+//}
+
 void init() {
+  //fact[0] = 1;
+  //for (int i = 1; i < 2 * MAXN; ++i)
+    //fact[i] = mul(i, fact[i - 1]);
+
   choose[1][0] = choose[1][1] = 1;
   for (int i = 2; i < 2 * MAXN; ++i) {
     choose[i][0] = 1;
