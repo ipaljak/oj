@@ -2848,6 +2848,24 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF59590873": {
+    "contest_id": 1204,
+    "language": "GNU C++17",
+    "path": "codeforces/1204/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Kirk and a Binary String (easy version)",
+    "problem_url": "https://codeforces.com/contest/1204/problem/D1",
+    "submission_id": "CF59590873",
+    "submission_url": "https://codeforces.com/contest/1204/submission/59590873",
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "Aug/27/2019 22:26"
+  },
   "CF59590888": {
     "contest_id": 1204,
     "language": "GNU C++17",
