@@ -2848,6 +2848,25 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF59858742": {
+    "contest_id": 1190,
+    "language": "GNU C++17",
+    "path": "codeforces/1190/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tokitsukaze and Strange Rectangle",
+    "problem_url": "https://codeforces.com/contest/1190/problem/D",
+    "submission_id": "CF59858742",
+    "submission_url": "https://codeforces.com/contest/1190/submission/59858742",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "sortings",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "Sep/01/2019 16:29"
+  },
   "CF59962743": {
     "contest_id": 853,
     "language": "GNU C++17",
