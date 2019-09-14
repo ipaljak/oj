@@ -2848,6 +2848,26 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF60562714": {
+    "contest_id": 1209,
+    "language": "GNU C++17",
+    "path": "codeforces/1209/G1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Into Blocks (easy version)",
+    "problem_url": "https://codeforces.com/contest/1209/problem/G1",
+    "submission_id": "CF60562714",
+    "submission_url": "https://codeforces.com/contest/1209/submission/60562714",
+    "tags": [
+      "data structures",
+      "dsu",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "Sep/14/2019 16:50"
+  },
   "CF61133057": {
     "contest_id": 1229,
     "language": "GNU C++17",
