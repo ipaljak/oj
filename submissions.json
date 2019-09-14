@@ -2848,6 +2848,24 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF60535255": {
+    "contest_id": 1209,
+    "language": "GNU C++17",
+    "path": "codeforces/1209/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Koala and Lights",
+    "problem_url": "https://codeforces.com/contest/1209/problem/B",
+    "submission_id": "CF60535255",
+    "submission_url": "https://codeforces.com/contest/1209/submission/60535255",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Sep/14/2019 15:11"
+  },
   "CF60546011": {
     "contest_id": 1209,
     "language": "GNU C++17",
