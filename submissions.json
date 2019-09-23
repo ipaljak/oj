@@ -2848,6 +2848,23 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF61170471": {
+    "contest_id": 1229,
+    "language": "GNU C++17",
+    "path": "codeforces/1229/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Konrad and Company Evaluation",
+    "problem_url": "https://codeforces.com/contest/1229/problem/C",
+    "submission_id": "CF61170471",
+    "submission_url": "https://codeforces.com/contest/1229/submission/61170471",
+    "tags": [
+      "brute force",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "Sep/23/2019 18:27"
+  },
   "CF61184413": {
     "contest_id": 1229,
     "language": "GNU C++17",
