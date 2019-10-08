@@ -2848,6 +2848,25 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF62147303": {
+    "contest_id": 1238,
+    "language": "GNU C++17",
+    "path": "codeforces/1238/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "The Maximum Subtree",
+    "problem_url": "https://codeforces.com/contest/1238/problem/F",
+    "submission_id": "CF62147303",
+    "submission_url": "https://codeforces.com/contest/1238/submission/62147303",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Oct/08/2019 18:13"
+  },
   "CF63675902": {
     "contest_id": 1225,
     "language": "GNU C++17",
