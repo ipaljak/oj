@@ -2848,6 +2848,27 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF65391446": {
+    "contest_id": 1254,
+    "language": "GNU C++17",
+    "path": "codeforces/1254/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Send Boxes to Alice (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1254/problem/B2",
+    "submission_id": "CF65391446",
+    "submission_url": "https://codeforces.com/contest/1254/submission/65391446",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "ternary search",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "Nov/19/2019 18:43"
+  },
   "CF65400243": {
     "contest_id": 1254,
     "language": "GNU C++17",
