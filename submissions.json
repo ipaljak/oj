@@ -2848,6 +2848,23 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF65402132": {
+    "contest_id": 1255,
+    "language": "GNU C++17",
+    "path": "codeforces/1255/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Point Ordering",
+    "problem_url": "https://codeforces.com/contest/1255/problem/F",
+    "submission_id": "CF65402132",
+    "submission_url": "https://codeforces.com/contest/1255/submission/65402132",
+    "tags": [
+      "geometry",
+      "interactive",
+      "*2300"
+    ],
+    "timestamp": "Nov/20/2019 00:29"
+  },
   "CF65402159": {
     "contest_id": 1255,
     "language": "GNU C++17",
