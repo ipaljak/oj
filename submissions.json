@@ -2848,6 +2848,22 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF65607079": {
+    "contest_id": 1256,
+    "language": "GNU C++17",
+    "path": "codeforces/1256/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Platforms Jumping",
+    "problem_url": "https://codeforces.com/contest/1256/problem/C",
+    "submission_id": "CF65607079",
+    "submission_url": "https://codeforces.com/contest/1256/submission/65607079",
+    "tags": [
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Nov/23/2019 22:31"
+  },
   "CF65607236": {
     "contest_id": 1256,
     "language": "GNU C++17",
