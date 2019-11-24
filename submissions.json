@@ -2848,6 +2848,28 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF65650369": {
+    "contest_id": 1261,
+    "language": "GNU C++17",
+    "path": "codeforces/1261/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Arson In Berland Forest",
+    "problem_url": "https://codeforces.com/contest/1261/problem/C",
+    "submission_id": "CF65650369",
+    "submission_url": "https://codeforces.com/contest/1261/submission/65650369",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "Nov/24/2019 10:44"
+  },
   "CF65653002": {
     "contest_id": 1261,
     "language": "GNU C++17",
