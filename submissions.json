@@ -2848,6 +2848,24 @@
     ],
     "timestamp": "Jan/06/2017 20:58"
   },
+  "CF67377687": {
+    "contest_id": 1268,
+    "language": "GNU C++17",
+    "path": "codeforces/1268/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Domino for Young",
+    "problem_url": "https://codeforces.com/contest/1268/problem/B",
+    "submission_id": "CF67377687",
+    "submission_url": "https://codeforces.com/contest/1268/submission/67377687",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Dec/21/2019 16:29"
+  },
   "CF67529054": {
     "contest_id": 1282,
     "language": "GNU C++17",
