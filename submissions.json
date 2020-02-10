@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF70758718": {
+    "contest_id": 614,
+    "language": "Python 3",
+    "path": "codeforces/614/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Link/Cut Tree",
+    "problem_url": "https://codeforces.com/contest/614/problem/A",
+    "submission_id": "CF70758718",
+    "submission_url": "https://codeforces.com/contest/614/submission/70758718",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Feb/11/2020 00:06"
+  },
   "CF70815091": {
     "contest_id": 498,
     "language": "GNU C++17",
