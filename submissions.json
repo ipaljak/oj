@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF76027801": {
+    "contest_id": 1324,
+    "language": "Rust",
+    "path": "codeforces/1324/E.rs",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sleeping Schedule",
+    "problem_url": "https://codeforces.com/contest/1324/problem/E",
+    "submission_id": "CF76027801",
+    "submission_url": "https://codeforces.com/contest/1324/submission/76027801",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Apr/09/2020 20:32"
+  },
   "CF76102283": {
     "contest_id": 1334,
     "language": "Rust",
