@@ -52,6 +52,26 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF75994370": {
+    "contest_id": 1328,
+    "language": "Rust",
+    "path": "codeforces/1328/D.rs",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Carousel",
+    "problem_url": "https://codeforces.com/contest/1328/problem/D",
+    "submission_id": "CF75994370",
+    "submission_url": "https://codeforces.com/contest/1328/submission/75994370",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Apr/09/2020 15:21"
+  },
   "CF76006416": {
     "contest_id": 1328,
     "language": "Rust",
