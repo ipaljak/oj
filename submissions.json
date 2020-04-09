@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF76010250": {
+    "contest_id": 1324,
+    "language": "Rust",
+    "path": "codeforces/1324/A.rs",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Tetris Problem",
+    "problem_url": "https://codeforces.com/contest/1324/problem/A",
+    "submission_id": "CF76010250",
+    "submission_url": "https://codeforces.com/contest/1324/submission/76010250",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Apr/09/2020 17:53"
+  },
   "CF76012292": {
     "contest_id": 1324,
     "language": "Rust",
