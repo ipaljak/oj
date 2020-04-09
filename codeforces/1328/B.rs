@@ -43,5 +43,3 @@ fn main() {
         writeln!(out, "{}", solve(n, k)).ok();
     }
 }
-
-
