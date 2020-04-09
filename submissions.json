@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF75988424": {
+    "contest_id": 1328,
+    "language": "Rust",
+    "path": "codeforces/1328/C.rs",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ternary XOR",
+    "problem_url": "https://codeforces.com/contest/1328/problem/C",
+    "submission_id": "CF75988424",
+    "submission_url": "https://codeforces.com/contest/1328/submission/75988424",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Apr/09/2020 14:16"
+  },
   "CF75994370": {
     "contest_id": 1328,
     "language": "Rust",
