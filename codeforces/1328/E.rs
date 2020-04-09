@@ -18,7 +18,7 @@ impl Scanner {
     }
 }
 
-#[derive(Default, Clone)]
+#[derive(Default, Clone, Debug)]
 struct NodeData {
     dad: usize,
     depth: usize,
@@ -26,18 +26,19 @@ struct NodeData {
     finish: usize,
 }
 
-fn dfs(node: usize, tick: &mut usize, v: &Vec<Vec<usize>>, node_data: &mut Vec<NodeData>) {
-    node_data[node].discovery = *tick;
-    *tick += 1;
+unsafe fn dfs(node: usize, v: &Vec<Vec<usize>>, node_data: &mut Vec<NodeData>) {
+    static mut TICK: usize = 0;
+    node_data[node].discovery = TICK;
+    TICK += 1;
     for nxt in &v[node] {
         if *nxt == node_data[node].dad {
             continue;
         }
         node_data[*nxt].dad = node;
         node_data[*nxt].depth = node_data[node].depth + 1;
-        dfs(*nxt, tick, v, node_data);
+        dfs(*nxt, v, node_data);
     }
-    node_data[node].finish = *tick;
+    node_data[node].finish = TICK;
 }
 
 fn query(mut q_vec: Vec<usize>, node_data: &Vec<NodeData>) -> bool {
@@ -83,8 +84,9 @@ fn main() {
         n
     ];
 
-    let mut tick = 0;
-    dfs(0, &mut tick, &v, &mut node_data);
+    unsafe {
+        dfs(0, &v, &mut node_data);
+    }
 
     for _ in 0..m {
         let k = scanner.next::<usize>();
