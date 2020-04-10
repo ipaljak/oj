@@ -52,6 +52,25 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF76163147": {
+    "contest_id": 1334,
+    "language": "Rust",
+    "path": "codeforces/1334/D.rs",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Minimum Euler Cycle",
+    "problem_url": "https://codeforces.com/contest/1334/problem/D",
+    "submission_id": "CF76163147",
+    "submission_url": "https://codeforces.com/contest/1334/submission/76163147",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Apr/10/2020 17:50"
+  },
   "CF77481272": {
     "contest_id": 1343,
     "language": "Rust",
