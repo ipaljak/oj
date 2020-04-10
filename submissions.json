@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF76102283": {
+    "contest_id": 1334,
+    "language": "Rust",
+    "path": "codeforces/1334/A.rs",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Level Statistics",
+    "problem_url": "https://codeforces.com/contest/1334/problem/A",
+    "submission_id": "CF76102283",
+    "submission_url": "https://codeforces.com/contest/1334/submission/76102283",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/10/2020 16:40"
+  },
   "CF76116442": {
     "contest_id": 1334,
     "language": "Rust",
