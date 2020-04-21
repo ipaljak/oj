@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF77494890": {
+    "contest_id": 1343,
+    "language": "Rust",
+    "path": "codeforces/1343/B.rs",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Balanced Array",
+    "problem_url": "https://codeforces.com/contest/1343/problem/B",
+    "submission_id": "CF77494890",
+    "submission_url": "https://codeforces.com/contest/1343/submission/77494890",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/21/2020 16:51"
+  },
   "CF77501811": {
     "contest_id": 1343,
     "language": "Rust",
