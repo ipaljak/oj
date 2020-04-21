@@ -52,6 +52,23 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF77481272": {
+    "contest_id": 1343,
+    "language": "Rust",
+    "path": "codeforces/1343/A.rs",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Candies",
+    "problem_url": "https://codeforces.com/contest/1343/problem/A",
+    "submission_id": "CF77481272",
+    "submission_url": "https://codeforces.com/contest/1343/submission/77481272",
+    "tags": [
+      "brute force",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/21/2020 16:41"
+  },
   "CF77494890": {
     "contest_id": 1343,
     "language": "Rust",
