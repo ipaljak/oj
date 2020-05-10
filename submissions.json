@@ -52,6 +52,24 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF79663480": {
+    "contest_id": 1344,
+    "language": "GNU C++17",
+    "path": "codeforces/1344/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hilbert's Hotel",
+    "problem_url": "https://codeforces.com/contest/1344/problem/A",
+    "submission_id": "CF79663480",
+    "submission_url": "https://codeforces.com/contest/1344/submission/79663480",
+    "tags": [
+      "math",
+      "number theory",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/10/2020 16:42"
+  },
   "CF80173980": {
     "contest_id": 1344,
     "language": "GNU C++17",
