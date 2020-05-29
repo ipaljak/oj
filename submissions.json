@@ -52,6 +52,22 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF81925430": {
+    "contest_id": 527,
+    "language": "GNU C++17",
+    "path": "codeforces/527/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Error Correct System",
+    "problem_url": "https://codeforces.com/contest/527/problem/B",
+    "submission_id": "CF81925430",
+    "submission_url": "https://codeforces.com/contest/527/submission/81925430",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "May/29/2020 22:10"
+  },
   "CF81926461": {
     "contest_id": 487,
     "language": "GNU C++17",
