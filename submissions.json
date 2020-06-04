@@ -52,6 +52,24 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF82580879": {
+    "contest_id": 1362,
+    "language": "GNU C++17",
+    "path": "codeforces/1362/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Johnny and Megan's Necklace",
+    "problem_url": "https://codeforces.com/contest/1362/problem/F",
+    "submission_id": "CF82580879",
+    "submission_url": "https://codeforces.com/contest/1362/submission/82580879",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "*2500"
+    ],
+    "timestamp": "Jun/05/2020 00:13"
+  },
   "CF82635787": {
     "contest_id": 145,
     "language": "GNU C++17",
