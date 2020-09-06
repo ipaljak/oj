@@ -52,6 +52,24 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF92090347": {
+    "contest_id": 1405,
+    "language": "GNU C++17",
+    "path": "codeforces/1405/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fixed Point Removal",
+    "problem_url": "https://codeforces.com/contest/1405/problem/E",
+    "submission_id": "CF92090347",
+    "submission_url": "https://codeforces.com/contest/1405/submission/92090347",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "Sep/06/2020 22:53"
+  },
   "CF92232624": {
     "contest_id": 1407,
     "language": "GNU C++17",
