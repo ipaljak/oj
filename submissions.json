@@ -52,6 +52,27 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF92297656": {
+    "contest_id": 1407,
+    "language": "GNU C++17",
+    "path": "codeforces/1407/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Egor in the Republic of Dagestan",
+    "problem_url": "https://codeforces.com/contest/1407/problem/E",
+    "submission_id": "CF92297656",
+    "submission_url": "https://codeforces.com/contest/1407/submission/92297656",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*2500"
+    ],
+    "timestamp": "Sep/08/2020 21:05"
+  },
   "CF92589060": {
     "contest_id": 1406,
     "language": "GNU C++17",
