@@ -52,6 +52,22 @@
     ],
     "timestamp": "Jan/07/2021 09:38"
   },
+  "CF96943514": {
+    "contest_id": 1435,
+    "language": "GNU C++17",
+    "path": "codeforces/1435/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Finding Sasuke",
+    "problem_url": "https://codeforces.com/contest/1435/problem/A",
+    "submission_id": "CF96943514",
+    "submission_url": "https://codeforces.com/contest/1435/submission/96943514",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/27/2020 22:46"
+  },
   "CF96943706": {
     "contest_id": 1435,
     "language": "GNU C++17",
