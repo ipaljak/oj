@@ -1,4 +1,23 @@
 {
+  "CF103027528": {
+    "contest_id": 594,
+    "language": "GNU C++17",
+    "path": "codeforces/594/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Edo and Magnets",
+    "problem_url": "https://codeforces.com/contest/594/problem/C",
+    "submission_id": "CF103027528",
+    "submission_url": "https://codeforces.com/contest/594/submission/103027528",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "Jan/02/2021 13:20"
+  },
   "CF103489866": {
     "contest_id": 461,
     "language": "GNU C++17",
