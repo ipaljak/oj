@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-492 | [E - Modular Stability](https://codeforces.com/contest/1359/problem/E) | [Rust](./codeforces/1359/E.rs) | `combinatorics` `math` `number theory` `*2000` | Jan/23/2021 11:22 | 
+493 | [E - Modular Stability](https://codeforces.com/contest/1359/problem/E) | [Rust](./codeforces/1359/E.rs) | `combinatorics` `math` `number theory` `*2000` | Jan/23/2021 11:22 | 
+492 | [D - Yet Another Problem On a Subsequence](https://codeforces.com/contest/1000/problem/D) | [Rust](./codeforces/1000/D.rs) | `combinatorics` `dp` `*1900` | Jan/22/2021 19:26 | 
 491 | [C - Watto and Mechanism](https://codeforces.com/contest/514/problem/C) | [GNU C++17](./codeforces/514/C.cpp) | `binary search` `data structures` `hashing` `string suffix structures` `strings` `*2000` | Jan/08/2021 01:24 | 
 490 | [C - Greg and Friends](https://codeforces.com/contest/295/problem/C) | [GNU C++17](./codeforces/295/C.cpp) | `combinatorics` `dp` `graphs` `shortest paths` `*2100` | Jan/07/2021 20:23 | 
 489 | [D - Numbers](https://codeforces.com/contest/128/problem/D) | [GNU C++17](./codeforces/128/D.cpp) | `constructive algorithms` `implementation` `*2000` | Jan/07/2021 09:38 | 

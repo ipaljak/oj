@@ -91,6 +91,23 @@
     ],
     "timestamp": "Jan/08/2021 01:24"
   },
+  "CF105092012": {
+    "contest_id": 1000,
+    "language": "Rust",
+    "path": "codeforces/1000/D.rs",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yet Another Problem On a Subsequence",
+    "problem_url": "https://codeforces.com/contest/1000/problem/D",
+    "submission_id": "CF105092012",
+    "submission_url": "https://codeforces.com/contest/1000/submission/105092012",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Jan/22/2021 19:26"
+  },
   "CF105141310": {
     "contest_id": 1359,
     "language": "Rust",
