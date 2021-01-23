@@ -126,6 +126,24 @@
     ],
     "timestamp": "Jan/23/2021 11:22"
   },
+  "CF105154087": {
+    "contest_id": 895,
+    "language": "Rust",
+    "path": "codeforces/895/D.rs",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "String Mark",
+    "problem_url": "https://codeforces.com/contest/895/problem/D",
+    "submission_id": "CF105154087",
+    "submission_url": "https://codeforces.com/contest/895/submission/105154087",
+    "tags": [
+      "combinatorics",
+      "math",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "Jan/23/2021 14:24"
+  },
   "CF105158264": {
     "contest_id": 1043,
     "language": "Rust",
