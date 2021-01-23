@@ -126,6 +126,27 @@
     ],
     "timestamp": "Jan/23/2021 11:22"
   },
+  "CF105158264": {
+    "contest_id": 1043,
+    "language": "Rust",
+    "path": "codeforces/1043/F.rs",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Make It One",
+    "problem_url": "https://codeforces.com/contest/1043/problem/F",
+    "submission_id": "CF105158264",
+    "submission_url": "https://codeforces.com/contest/1043/submission/105158264",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "shortest paths",
+      "*2500"
+    ],
+    "timestamp": "Jan/23/2021 15:19"
+  },
   "CF11372355": {
     "contest_id": 548,
     "language": "GNU C++",

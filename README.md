@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+494 | [F - Make It One](https://codeforces.com/contest/1043/problem/F) | [Rust](./codeforces/1043/F.rs) | `bitmasks` `combinatorics` `dp` `math` `number theory` `shortest paths` `*2500` | Jan/23/2021 15:19 | 
 493 | [E - Modular Stability](https://codeforces.com/contest/1359/problem/E) | [Rust](./codeforces/1359/E.rs) | `combinatorics` `math` `number theory` `*2000` | Jan/23/2021 11:22 | 
 492 | [D - Yet Another Problem On a Subsequence](https://codeforces.com/contest/1000/problem/D) | [Rust](./codeforces/1000/D.rs) | `combinatorics` `dp` `*1900` | Jan/22/2021 19:26 | 
 491 | [C - Watto and Mechanism](https://codeforces.com/contest/514/problem/C) | [GNU C++17](./codeforces/514/C.cpp) | `binary search` `data structures` `hashing` `string suffix structures` `strings` `*2000` | Jan/08/2021 01:24 | 
