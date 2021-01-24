@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+496 | [D - Fuzzy Search](https://codeforces.com/contest/528/problem/D) | [GNU C++17](./codeforces/528/D.cpp) | `bitmasks` `brute force` `fft` `*2500` | Jan/24/2021 23:45 | 
 495 | [F - Make It One](https://codeforces.com/contest/1043/problem/F) | [Rust](./codeforces/1043/F.rs) | `bitmasks` `combinatorics` `dp` `math` `number theory` `shortest paths` `*2500` | Jan/23/2021 15:19 | 
 494 | [D - String Mark](https://codeforces.com/contest/895/problem/D) | [Rust](./codeforces/895/D.rs) | `combinatorics` `math` `strings` `*2100` | Jan/23/2021 14:24 | 
 493 | [E - Modular Stability](https://codeforces.com/contest/1359/problem/E) | [Rust](./codeforces/1359/E.rs) | `combinatorics` `math` `number theory` `*2000` | Jan/23/2021 11:22 | 
