@@ -323,6 +323,24 @@
     ],
     "timestamp": "Jun/10/2015 15:21"
   },
+  "CF116378970": {
+    "contest_id": 1525,
+    "language": "GNU C++17",
+    "path": "codeforces/1525/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Assimilation IV",
+    "problem_url": "https://codeforces.com/contest/1525/problem/E",
+    "submission_id": "CF116378970",
+    "submission_url": "https://codeforces.com/contest/1525/submission/116378970",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities"
+    ],
+    "timestamp": "May/16/2021 11:41"
+  },
   "CF11698863": {
     "contest_id": 550,
     "language": "GNU C++",
