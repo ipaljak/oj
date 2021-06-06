@@ -595,6 +595,22 @@
     ],
     "timestamp": "Jun/27/2015 16:52"
   },
+  "CF118607309": {
+    "contest_id": 1536,
+    "language": "GNU C++17",
+    "path": "codeforces/1536/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prinzessin der Verurteilung",
+    "problem_url": "https://codeforces.com/contest/1536/problem/B",
+    "submission_id": "CF118607309",
+    "submission_url": "https://codeforces.com/contest/1536/submission/118607309",
+    "tags": [
+      "strings",
+      "strings"
+    ],
+    "timestamp": "Jun/06/2021 16:54"
+  },
   "CF118618153": {
     "contest_id": 1536,
     "language": "GNU C++17",
