@@ -595,6 +595,25 @@
     ],
     "timestamp": "Jun/27/2015 16:52"
   },
+  "CF118629016": {
+    "contest_id": 1536,
+    "language": "GNU C++17",
+    "path": "codeforces/1536/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Omkar and Forest",
+    "problem_url": "https://codeforces.com/contest/1536/problem/E",
+    "submission_id": "CF118629016",
+    "submission_url": "https://codeforces.com/contest/1536/submission/118629016",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "shortest paths"
+    ],
+    "timestamp": "Jun/06/2021 17:32"
+  },
   "CF118639179": {
     "contest_id": 1536,
     "language": "GNU C++17",
