@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-507 | [F - Omkar and Akmar](https://codeforces.com/contest/1536/problem/F) | [GNU C++17](./codeforces/1536/F.cpp) | `math` `math` | Jun/06/2021 19:30 | 
-506 | [D - Omkar and Medians](https://codeforces.com/contest/1536/problem/D) | [GNU C++17](./codeforces/1536/D.cpp) | `data structures` `greedy` `implementation` `math` | Jun/06/2021 17:57 | 
-505 | [E - Omkar and Forest](https://codeforces.com/contest/1536/problem/E) | [GNU C++17](./codeforces/1536/E.cpp) | `combinatorics` `constructive algorithms` `graphs` `math` `shortest paths` | Jun/06/2021 17:32 | 
+508 | [F - Omkar and Akmar](https://codeforces.com/contest/1536/problem/F) | [GNU C++17](./codeforces/1536/F.cpp) | `math` `math` | Jun/06/2021 19:30 | 
+507 | [D - Omkar and Medians](https://codeforces.com/contest/1536/problem/D) | [GNU C++17](./codeforces/1536/D.cpp) | `data structures` `greedy` `implementation` `math` | Jun/06/2021 17:57 | 
+506 | [E - Omkar and Forest](https://codeforces.com/contest/1536/problem/E) | [GNU C++17](./codeforces/1536/E.cpp) | `combinatorics` `constructive algorithms` `graphs` `math` `shortest paths` | Jun/06/2021 17:32 | 
+505 | [C - Diluc and Kaeya](https://codeforces.com/contest/1536/problem/C) | [GNU C++17](./codeforces/1536/C.cpp) | `dp` `hashing` `number theory` | Jun/06/2021 17:11 | 
 504 | [E - Assimilation IV](https://codeforces.com/contest/1525/problem/E) | [GNU C++17](./codeforces/1525/E.cpp) | `combinatorics` `dp` `math` `probabilities` | May/16/2021 11:41 | 
 503 | [C - Robot Collisions](https://codeforces.com/contest/1525/problem/C) | [GNU C++17](./codeforces/1525/C.cpp) | `data structures` `greedy` `implementation` `sortings` | May/16/2021 11:05 | 
 502 | [D - Armchairs](https://codeforces.com/contest/1525/problem/D) | [GNU C++17](./codeforces/1525/D.cpp) | `brute force` `dp` `flows` `greedy` | May/16/2021 10:32 | 
