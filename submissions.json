@@ -595,6 +595,22 @@
     ],
     "timestamp": "Jun/27/2015 16:52"
   },
+  "CF118656632": {
+    "contest_id": 1536,
+    "language": "GNU C++17",
+    "path": "codeforces/1536/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Omkar and Akmar",
+    "problem_url": "https://codeforces.com/contest/1536/problem/F",
+    "submission_id": "CF118656632",
+    "submission_url": "https://codeforces.com/contest/1536/submission/118656632",
+    "tags": [
+      "math",
+      "math"
+    ],
+    "timestamp": "Jun/06/2021 19:30"
+  },
   "CF11971573": {
     "contest_id": 557,
     "language": "GNU C++",
